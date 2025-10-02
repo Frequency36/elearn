@@ -1,0 +1,23 @@
+{
+  "name": "elearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/styles.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frequency36/elearn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frequency36/elearn/issues"
+  },
+  "homepage": "https://github.com/Frequency36/elearn#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.14"
+  }
+}
